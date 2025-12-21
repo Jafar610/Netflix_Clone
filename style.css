@@ -5,3 +5,13 @@
     box-sizing: border-box;
     font-family: Outfit;
 }
+.login_btn{
+    font-size: 16px;
+    padding:10px 25px;
+    font-weight: 600;
+    background-color: #e50914;
+    color:#fff;
+    border:none;
+    outline:none;
+    border-radius: 5px;
+}
